@@ -4,7 +4,7 @@ This is a small task applicants will be asked to perform as part of the screenin
 This is a task that simulates what a clasical task could be for a student data-scientist/analyst when working at Legal Desk. We have created some synthetic sample data which could mimic how our interal data-structures look. 
 
 ### Image of ER-Diagram
-![Alt text](image.jpg)
+![Alt text](ER_Diagram.png)
 
 ## Objectives
 Please ensure that you with this dashboard display the following: 
