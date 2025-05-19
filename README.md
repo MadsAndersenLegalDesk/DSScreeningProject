@@ -11,11 +11,11 @@ Note that these are not mandatory but just for inspiration:
 - Understand which products are most valueable
 - Orders over time
 
-## Objectives
-Please ensure that you with the code/dashboard display the following: 
+## What we would like to see
+Please try to display the following as best you can: 
 - Abillity to work with multiple tables and some basic sql skills
 - Your ability to work with data in python, and wrangle some data with pandas
-- Abillity to select proper visualizations for for the purpose and objective
+- Abillity to select proper visualizations for for the objective 
 - And at last creativity is alsways valued :)
 
 ### Image of ER-Diagram
